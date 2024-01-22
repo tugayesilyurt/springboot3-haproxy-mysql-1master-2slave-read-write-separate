@@ -1,0 +1,12 @@
+server:
+  port: 8091
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/twitter  # haproxy -> slave1 mysql and slave2 mysql
+    username: twitter
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
