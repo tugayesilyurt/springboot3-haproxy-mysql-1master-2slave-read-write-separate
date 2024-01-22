@@ -128,7 +128,9 @@ spring:
       ddl-auto: update
 
 ```
+## HAProxy UI
 
+<img src="https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/haproxy.png" width=50% height=50%>
 
 
 
