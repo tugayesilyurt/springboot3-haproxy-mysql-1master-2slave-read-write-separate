@@ -1,10 +1,14 @@
-# Project Name
+# Project
 
 Optimizing Data Access in Spring Boot 3 with HAProxy and MySQL: Achieving High Availability and Scalability through Separate Read and Write Operations
 
 "Imagine a system similar to Twitter, where reading is far more common than writing (95% read, 5% write). To handle this, we've set up a smart system using MySQL. We split the workload by having one main hub (the master) that takes care of writing stuff, while several other parts (the slaves) handle all the reading requests efficiently.
 
 Today, we will talk about this with code, exploring how the system is designed to manage Twitter-like activity smoothly. Check out the system diagram to see how everything connects. This way, we make sure the system not only copes with the demands but also runs efficiently, handling all those read operations with ease."
+
+## Read this article on Medium
+
+[Medium Article](https://medium.com/@htyesilyurt/optimizing-data-access-in-spring-boot-3-with-haproxy-and-mysql-1-master-2-slave-separate-read-25fced42f761)
 
 ## System Diagram
 
