@@ -8,7 +8,9 @@ Today, we will talk about this with code, exploring how the system is designed t
 
 ## System Diagram
 
-![System Diagram(<img src="https://github.com/tugayesilyurt/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/systemdiagram.png" width=50% height=50%>)
+![System Diagram(<img src="https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/systemdiagram.png" width=50% height=50%>)
+
+https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/systemdiagram.png
 
 ## Tech Stack
 
