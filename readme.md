@@ -12,7 +12,7 @@ Today, we will talk about this with code, exploring how the system is designed t
 
 ## System Diagram
 
-<img src="https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/systemdiagram.png" width=70% height=70%>
+<img src="https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/systemdiagram.png" width=60% height=60%>
 
 ## Tech Stack
 
@@ -130,7 +130,7 @@ spring:
 ```
 ## HAProxy UI
 
-<img src="https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/haproxy.png" width=50% height=50%>
+<img src="https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/haproxy.png" width=60% height=60%>
 
 
 
