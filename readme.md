@@ -130,7 +130,7 @@ spring:
 ```
 ## HAProxy UI
 
-<img src="https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/haproxy.png" width=60% height=60%>
+<img src="https://github.com/tugayesilyurt/springboot3-haproxy-mysql-1master-2slave-read-write-separate/blob/main/assets/haproxy.png" width=65% height=65%>
 
 
 
